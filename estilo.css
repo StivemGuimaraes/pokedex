@@ -19,9 +19,6 @@ h1 {
     letter-spacing: 5px;
 }
 
-h3 {
-    font-size: 11pt;
-}
 
 .poke-container {
     display: flex;
@@ -40,6 +37,8 @@ h3 {
     box-shadow: 0 3px 15px rgba(100, 100, 100, 0.5);
     margin: 10px;
     padding: 20px;
+    width: 14%;
+    height: 280px;
     text-align: center;
 }
 

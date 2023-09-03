@@ -1,5 +1,5 @@
 const poke_container = document.querySelector("#poke-container");
-const pokemon_count = 500;
+const pokemon_count = 800;
 const colors = {
   bug: "#ACC833",
   dark: "#707785",
