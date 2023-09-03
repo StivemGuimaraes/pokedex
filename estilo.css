@@ -19,6 +19,10 @@ h1 {
     letter-spacing: 5px;
 }
 
+h3 {
+    font-size: 11pt;
+}
+
 .poke-container {
     display: flex;
     flex-wrap: wrap;
@@ -29,7 +33,9 @@ h1 {
 }
 
 .pokemon {
-    background-color: #e7a10a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     border-radius: 18px;
     box-shadow: 0 3px 15px rgba(100, 100, 100, 0.5);
     margin: 10px;
